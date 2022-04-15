@@ -1,5 +1,5 @@
 ### [Home](https://artinkevin.github.io/homepage/)
-### [Lecture Notes]()
+### [Lecture Notes](https://artinkevin.github.io/notes/)
 ## Useful Links
 #### Institutes:
 
