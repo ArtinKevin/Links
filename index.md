@@ -5,9 +5,3 @@
 
 
 #### Websites:
-
-
-#### LaTeX:
-
-
-#### More:
