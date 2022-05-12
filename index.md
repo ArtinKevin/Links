@@ -13,4 +13,5 @@
 - [Jacob Lurie](https://www.math.ias.edu/~lurie/)
 - [Kiran S.Kedlaya ](https://kskedlaya.org/)
 - [Bhargav Bhatt](http://www-personal.umich.edu/~bhattb/)
+- [Joël Merker](https://www.imo.universite-paris-saclay.fr/~merker/)
 #### Websites:
