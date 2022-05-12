@@ -15,4 +15,5 @@
 - [Bhargav Bhatt](http://www-personal.umich.edu/~bhattb/)
 - [Joël Merker](https://www.imo.universite-paris-saclay.fr/~merker/)
 - [Jean-Pierre Demailly](https://www-fourier.ujf-grenoble.fr/~demailly/)
+- [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/)
 #### Websites:
