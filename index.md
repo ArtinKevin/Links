@@ -16,4 +16,5 @@
 - [Joël Merker](https://www.imo.universite-paris-saclay.fr/~merker/)
 - [Jean-Pierre Demailly](https://www-fourier.ujf-grenoble.fr/~demailly/)
 - [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/)
+- [Sigurdur Helgason](https://math.mit.edu/~helgason/)
 #### Websites:
