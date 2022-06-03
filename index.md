@@ -17,4 +17,5 @@
 - [Jean-Pierre Demailly](https://www-fourier.ujf-grenoble.fr/~demailly/)
 - [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/)
 - [Sigurdur Helgason](https://math.mit.edu/~helgason/)
+- [Dominic Joyce](https://people.maths.ox.ac.uk/~joyce/)
 #### Websites:
