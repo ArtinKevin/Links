@@ -19,3 +19,6 @@
 - [Sigurdur Helgason](https://math.mit.edu/~helgason/)
 - [Dominic Joyce](https://people.maths.ox.ac.uk/~joyce/)
 #### Websites:
+- [Z-Library](https://1lib.net/)
+- [Math Genealogy](https://www.mathgenealogy.org/)
+- [MathOverflow](http://mathoverflow.net/)
