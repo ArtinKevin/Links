@@ -18,7 +18,7 @@
 - [Pierre Schapira](https://webusers.imj-prg.fr/~pierre.schapira/)
 - [Sigurdur Helgason](https://math.mit.edu/~helgason/)
 - [Dominic Joyce](https://people.maths.ox.ac.uk/~joyce/)
-- [Fu Xiangdi](https://sites.google.com/view/xiangdi-fu/home)
+- [Xiangdi Fu](https://sites.google.com/view/xiangdi-fu/home)
 #### Websites:
 - [Z-Library](https://1lib.net/)
 - [Math Genealogy](https://www.mathgenealogy.org/)
