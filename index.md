@@ -1,5 +1,4 @@
 ### [Home](https://artinkevin.github.io/homepage/)
-### [Lecture Notes](https://artinkevin.github.io/notes/)
 ## Useful Links
 #### Homepages:
 - [Yongqi Liang](http://staff.ustc.edu.cn/~yqliang/)
